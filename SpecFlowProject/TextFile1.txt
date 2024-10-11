@@ -1,0 +1,4 @@
+﻿D:\My Automation Project\SpecFlowProject\SpecFlowProject\bin\Debug\net6.0
+
+
+livingdoc test-assembly SpecFlowProject.dll -t TestExecution.json
